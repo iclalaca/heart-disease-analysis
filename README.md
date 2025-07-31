@@ -28,3 +28,7 @@ Confusion matrix heatmaps
 Python (pandas, numpy, matplotlib, seaborn)
 scikit-learn
 Google Colab
+
+## Performance Comparison of ML Models
+
+<img width="1021" height="875" alt="Ekran Resmi 2025-07-29 23 34 06" src="https://github.com/user-attachments/assets/7de2b0f8-7d0f-499d-af40-410b1d128de2" />
